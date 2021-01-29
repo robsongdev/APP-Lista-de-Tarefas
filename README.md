@@ -18,7 +18,7 @@
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-tecnologias">Tecnologias</a> •
-  <a href=" # -funcionalidades">Funcionalidades</a> •
+  <a href="8F-funcionalidades">Funcionalidades</a> •
   <a href="#-como-rodar-o-projeto">Como Rodar</a> •
   <a href="#-autor">Autor</a> •
   <a href="#-licença">Licença</a> •
