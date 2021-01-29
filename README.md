@@ -18,7 +18,7 @@
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-tecnologias">Tecnologias</a> •
-  <a href="8F-funcionalidades">Funcionalidades</a> •
+  <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-como-rodar-o-projeto">Como Rodar</a> •
   <a href="#-autor">Autor</a> •
   <a href="#-licença">Licença</a> •
@@ -50,7 +50,7 @@
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions: [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - [x] Adicionar suas tarefas na tela inicial
      - Salvando no próprio aparelho
