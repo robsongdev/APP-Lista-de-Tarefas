@@ -50,7 +50,7 @@
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions: [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 ---
 
-## Funcionalidades
+## 📝 Funcionalidades
 
 - [x] Adicionar suas tarefas na tela inicial
      - Salvando no próprio aparelho
