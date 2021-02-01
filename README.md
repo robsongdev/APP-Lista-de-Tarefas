@@ -1,4 +1,4 @@
-<img alt="icon" title="#icon" src="./assets/user-interface.png" width="100px" align = "left"> <br>
+<img alt="icon" title="#icon" src="https://i.imgur.com/o4TXjcP.png" width="100px" align = "left"> <br>
 <h1 align="center"> 📱 App Lista de Tarefas</h1>
 
 <p align="center">Aplicativo que cria uma lista de tarefas, onde se pode marcar as tarefas comcluidas e remove-las permanentemente</p>
